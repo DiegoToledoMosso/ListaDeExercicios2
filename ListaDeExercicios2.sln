@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMC.ConsoleApp", "IMC.Conso
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParOuIMpar.ConsoleApp", "ParOuIMpar.ConsoleApp\ParOuIMpar.ConsoleApp.csproj", "{DAD7F5B3-14EB-4A5F-AB5B-25B5265E0D91}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AxBOuA+B.ConsoleApp", "AxBOuA+B.ConsoleApp\AxBOuA+B.ConsoleApp.csproj", "{B932ACB0-846F-4E90-B736-CEACC34A1802}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{DAD7F5B3-14EB-4A5F-AB5B-25B5265E0D91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DAD7F5B3-14EB-4A5F-AB5B-25B5265E0D91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DAD7F5B3-14EB-4A5F-AB5B-25B5265E0D91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B932ACB0-846F-4E90-B736-CEACC34A1802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B932ACB0-846F-4E90-B736-CEACC34A1802}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B932ACB0-846F-4E90-B736-CEACC34A1802}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B932ACB0-846F-4E90-B736-CEACC34A1802}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
