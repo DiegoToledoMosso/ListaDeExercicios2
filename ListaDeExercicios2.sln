@@ -15,7 +15,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParOuIMpar.ConsoleApp", "Pa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AxBOuA+B.ConsoleApp", "AxBOuA+B.ConsoleApp\AxBOuA+B.ConsoleApp.csproj", "{B932ACB0-846F-4E90-B736-CEACC34A1802}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{26D35AE0-CE78-488F-A8B0-F9EE1D981D23}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumerosImpares.ConsoleApp", "ConsoleApp\NumerosImpares.ConsoleApp.csproj", "{26D35AE0-CE78-488F-A8B0-F9EE1D981D23}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
